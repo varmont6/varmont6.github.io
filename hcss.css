@@ -1,0 +1,42 @@
+body {
+	
+	
+
+
+}
+#logo {
+	width: 100%;
+	height: 10%;
+	font-family: verdana;
+	font-size: 45px;
+	text-align: center;
+	margin-bottom: 12px;
+}
+#srodek {
+	width: 50%;
+	height: 50%;
+	float: left;
+	
+}
+#srodek1 {
+	width: 50%;
+	height: 50%;
+	float: left;
+
+}
+#srodek2 {
+	width: 50%;
+	height: 50%;
+	float: left;
+
+}
+#srodek3 {
+	width: 50%;
+	height: 50%;
+	float: left;
+
+}
+img{
+	width: 900px;
+	height: 350px;
+}
